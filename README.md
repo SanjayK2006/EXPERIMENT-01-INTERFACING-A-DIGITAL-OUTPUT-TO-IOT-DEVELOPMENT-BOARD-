@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 07-02-24
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: SANJAY K
+###  ROLL NO :212223220094
+###  DEPARTMENT: INFORMATION TECHNOLOGY
 
 
 
@@ -86,6 +86,11 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+```
+NAME: SANJAY K
+REF NO: 212223220094
+```
+
 ```
 #include "main.h" 
 #include"stdio.h" 
